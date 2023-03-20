@@ -28,13 +28,6 @@
 
   
 ### Estudando:
-![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=Redux&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-<div align="center">
-  <br>
-  <p align="center"><strong>Número de Visitas:</strong></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sSn0wy}/count.svg" /></p> 
-  <br>
-</div>
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
