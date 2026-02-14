@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi%20There!%20👋;+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoOrthmann&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Andrade Orthmann github status" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoOrthmann&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
 ### Main Technologies:
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=Spring&labelColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
